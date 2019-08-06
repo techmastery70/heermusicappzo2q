@@ -3,3 +3,5 @@
 
 { "title" : "This will be the <b>discontinued</b> title text",
   "description" : "This will be the <b>discontinued</b> description text."} ]
+
+[ { "usernamehere" : "suspensionreasonhere" } ]
