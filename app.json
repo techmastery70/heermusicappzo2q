@@ -2,7 +2,7 @@
   {
     "Version": "1.0",
     "Maintenance": "false",
-    "Discontinued": "false",
+      "Discontinued": "true",
     "Suspensions": "*SUSPENDEDUSERNAMEHERE*"
   }
 ]
