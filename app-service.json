@@ -1,0 +1,5 @@
+[ { "title" : "This will be the <b>maintenance</b> title text.",
+  "description" : "This will be the <b>maintenance</b> description text."},
+
+{ "title" : "This will be the <b>discontinued</b> title text",
+  "description" : "This will be the <b>discontinued</b> description text."} ]
